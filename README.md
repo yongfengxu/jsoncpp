@@ -133,3 +133,5 @@ If you have trouble, see the Wiki, or post a question as an Issue.
 
 See the `LICENSE` file for details. In summary, JsonCpp is licensed under the
 MIT license, or public domain if desired and recognized in your jurisdiction.
+
+Hi I'm charlie
